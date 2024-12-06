@@ -1,3 +1,0 @@
-Just saving the terminal command :) 
-
-cargo build && ./challenge_1 ../../static/input
